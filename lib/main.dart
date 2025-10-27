@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-const String _defaultUrl = String.fromEnvironment('WEB_APP_URL',
-    defaultValue: 'http://3.36.226.165:3000');
+const String _defaultUrl = String.fromEnvironment(
+  'WEB_APP_URL',
+  defaultValue: 'https://www.nagarago.com',
+);
 
 void main() {
   runApp(const NumberBaseballWebViewApp());
