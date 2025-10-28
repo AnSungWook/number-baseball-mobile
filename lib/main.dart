@@ -3,7 +3,7 @@ import 'package:webview_flutter/webview_flutter.dart';
 
 const String _defaultUrl = String.fromEnvironment(
   'WEB_APP_URL',
-  defaultValue: 'https://www.nagarago.com',
+  defaultValue: 'https://nagarago.com',
 );
 
 void main() {

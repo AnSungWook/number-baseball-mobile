@@ -1,0 +1,7 @@
+# 이 파일을 `key.properties`로 이름을 바꾸고 실제 서명 정보를 입력하세요.
+# 원본 key.properties 파일은 반드시 버전 관리에서 제외해야 합니다.
+storePassword=키스토어-비밀번호
+keyPassword=개인키-비밀번호
+keyAlias=키-별칭
+# storeFile에는 android/ 디렉터리를 기준으로 한 상대 경로를 적습니다. (예: ../numberbaseball-release.jks)
+storeFile=../경로/numberbaseball-release.jks
