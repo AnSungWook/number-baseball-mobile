@@ -1,4 +1,4 @@
-package com.example.number_baseball_webview
+package com.nagarago.numberbaseball
 
 import io.flutter.embedding.android.FlutterActivity
 
